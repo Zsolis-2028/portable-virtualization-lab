@@ -43,10 +43,10 @@ Screenshots
 
  Docs
 
-- [Fedora VM Setup](configs/Fedora-VM-Setup.md)  
-- [Windows 11 VM Setup](configs/Windows11-VM-Setup.md)  
-- [Portable VirtualBox Setup](configs/Portable-VirtualBox-Setup.md)  
-- [USB Optimization Tips](configs/USB-Optimization.md)
+- [Fedora VM Setup](configs/Fedora-VM-Setup md)  
+- [Windows 11 VM Setup](configs/Windows11-VM-Setup md )  
+- [Portable VirtualBox Setup](configs/Portable-VirtualBox-Setup md)  
+- [USB Optimization Tips](configs/USB-Optimization md)
 
 Why This Matters
 
