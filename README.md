@@ -34,7 +34,6 @@ Screenshots
 
 | Fedora Boot | Windows 11 VM | USB Layout |
 |-------------|---------------|------------|
-| ![fedora-boot](screenshots/fedora-boot.png) | ![windows-boot](screenshots/windows-boot.png) | ![usb-layout](screenshots/usb-layout.png)
 
  Troubleshooting
 
